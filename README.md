@@ -2,7 +2,7 @@
 
 Converter between .bbscript format, as produced by ggxrd-mod (<https://github.com/super-continent/ggxrd-mod>) and bbscript parser/rebuilder (<https://github.com/super-continent/bbscript>), and the .REDAssetCharaScript file extension format, as produced by gildor's extract tool (<https://www.gildor.org/downloads>) when unpackaging a XXX_DAT_SF.upk file (for example, DZY_DAT_SF.upk) from Guilty Gear Xrd Rev2 REDGame\CookedPCConsole directory (after the necessary decryption (<https://github.com/gdkchan/GGXrdRevelatorDec>) and decompression (<https://www.gildor.org/downloads>) operations).
 
-##Usage
+## Usage
 
 ```txt
 BBSToAsset BBSCRFILE ORIGINAL_REDASSET NEW_REDASSET
