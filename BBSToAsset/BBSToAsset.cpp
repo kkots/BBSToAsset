@@ -8,7 +8,7 @@
 int wmain(int argc, wchar_t** argv)
 {
 
-    if (argc != 3) {
+    if (argc != 4) {
         printf(".bbscript to REDAssetCharaScript converter. Usage:\n"
             "  BBSToAsset BBSCRFILE ORIGINAL_REDASSET NEW_REDASSET\n"
             ", where:\n"
