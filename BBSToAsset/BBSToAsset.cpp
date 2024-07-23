@@ -13,7 +13,7 @@ int wmain(int argc, wchar_t** argv)
             "  BBSToAsset BBSCRFILE ORIGINAL_REDASSET NEW_REDASSET\n"
             ", where:\n"
             "  BBSCRFILE - the .bbscript file to convert to a new .REDAssetCharaScript file,\n"
-            "  ORIGINAL_REDASSET - the original REDAssetCharaScript file from which you originally obtained the bbscript\n"
+            "  ORIGINAL_REDASSET - the original REDAssetCharaScript file from which you originally obtained the bbscript,\n"
             "  NEW_REDASSET - where to create the new .REDAssetCharaScript file\n");
         return -1;
     }
